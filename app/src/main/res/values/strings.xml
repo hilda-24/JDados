@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JDados</string>
+    <string name="cara_1">Cara 1:</string>
+    <string name="cara_2">Cara 2:</string>
+    <string name="cara_3">Cara 3:</string>
+    <string name="cara_4">Cara 4:</string>
+    <string name="cara_5">Cara 5:</string>
+    <string name="cara_6">Cara 6:</string>
+    <string name="cara_2_0">Cara 2: 0</string>
+    <string name="cara_3_0">Cara 3: 0</string>
+    <string name="jugar">Jugar</string>
+    <string name="jugar_de_nuevo">jugar de nuevo</string>
+    <string name="cara_4_0">Cara 4: 0</string>
+    <string name="cara_5_0">Cara 5: 0</string>
+    <string name="cara_6_0">Cara 6: 0</string>
+    <string name="cara_1_0">Cara 1: 0</string>
+    <string name="volver_a_jugar">Volver a jugar</string>
+    <string name="button4">jugar otra vez</string>
+    <string name="cara">Cara que cayo mas veces: 0</string>
+</resources>
